@@ -126,4 +126,4 @@ We welcome contributions to enhance this project! Feel free to submit pull reque
 
 ---
 
-Made with ❤️ and AI by [Mir Mushaidul Islam].
+Made with ❤️ and AI by **Mir Mushaidul Islam**.
